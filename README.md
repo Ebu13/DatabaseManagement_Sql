@@ -1,2 +1,4 @@
 # DatabaseManagement_Sql
-Database Management &amp; Sql Queries
+
+Veritabanı yönetim sistemleri ile verileri yönetirken bir yandan da öğrendiğim sql sorguları ve shell komutlarını içerir.
+
