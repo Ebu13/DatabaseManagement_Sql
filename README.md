@@ -8,7 +8,7 @@ Veritabanları, çeşitli veri depolama ve yönetim yöntemlerine dayanarak fark
 
 2. **Belge Tabanlı Veritabanları** Verilerin JSON veya XML gibi belge formatlarında depolandığı veritabanlarıdır. Her belge, kendi içinde farklı alanları içerebilir ve ilişkisel veritabanlarından farklı bir modeli temsil eder. MongoDB gibi NoSQL veritabanları belge tabanlı veritabanlarına örnektir.
 
-3. **Anahtar-Değer Mağazaları (Key-Value Stores)**:** Basit bir anahtar-değer çiftleri koleksiyonu olarak verileri depolayan veritabanlarıdır. Her veri parçası bir anahtarla ilişkilendirilir ve bu anahtarla veriye erişilir. Redis ve Memcached gibi hafıza tabanlı veritabanları anahtar-değer mağazalarına örnektir.
+3. **Anahtar-Değer (Key-Value Stores)**:** Basit bir anahtar-değer çiftleri koleksiyonu olarak verileri depolayan veritabanlarıdır. Her veri parçası bir anahtarla ilişkilendirilir ve bu anahtarla veriye erişilir. Redis ve Memcached gibi hafıza tabanlı veritabanları anahtar-değer mağazalarına örnektir.
 
 4. **Sütun Tabanlı Veritabanları** Verilerin sütunlar halinde depolandığı ve sorgulanabildiği veritabanlarıdır. Bu tür veritabanları, analitik sorgular için genellikle daha verimli olabilir. Apache Cassandra ve HBase gibi dağıtılmış veritabanları sütun tabanlı veritabanlarına örnektir.
 
