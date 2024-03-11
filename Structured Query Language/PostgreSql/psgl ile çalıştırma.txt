@@ -1,0 +1,3 @@
+cd C:\Program Files\PostgreSQL\16\bin
+psql -U postgres -d <Veri Tabanı ismi>
+postgres kullanıcı adıdır.
