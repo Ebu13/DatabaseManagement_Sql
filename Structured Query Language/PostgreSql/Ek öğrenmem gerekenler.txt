@@ -1,1 +1,0 @@
-Proxy sunucuları ve veri tabanına erişimde proxy sunucuları HTTP Proxy ve FTP Proxy ve portların kullanımı
